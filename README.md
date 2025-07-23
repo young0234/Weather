@@ -89,15 +89,15 @@
 ## 2. 파일 구성
 ```
 🌱 artcenter  
- ┣ 📂 fonts
- ┣ 📂 files  
+ ┣ 📂 public
+ ┣ 📂 src
  ┣ 📂 images
  ┣ 📂 include
  ┣ 📂 pages   
  ┣ 📂 css
  ┣ 📂 scss    
- ┗ 📂 js    
-   📄 index.html    
+ ┗ 📄 index.html  
+     
 ```
 
    </br>
